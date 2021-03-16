@@ -1,13 +1,19 @@
 fileFormatVersion: 2
-guid: ec6ad1fddb774bb46ad9dafa987a9a39
+guid: 10106654491c525438bb89630b420b60
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 8620002510973024465
-    second: bg-vscode_0
+      213: 8389134475083476877
+    second: 13_0
   - first:
-      213: -3624798023193688779
-    second: bg-vscode_1
+      213: -4511638393055099938
+    second: 13_1
+  - first:
+      213: 828617781663003356
+    second: 13_2
+  - first:
+      213: -2962037833394052937
+    second: 13_3
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -117,13 +123,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: bg-vscode_0
+      name: 13_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 1017
-        height: 1077
+        x: 18
+        y: 2232
+        width: 581
+        height: 504
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -131,20 +137,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1d8b58dec9660a770800000000000000
-      internalID: 8620002510973024465
+      spriteID: d8f65588b513c6470800000000000000
+      internalID: 8389134475083476877
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bg-vscode_1
+      name: 13_1
       rect:
         serializedVersion: 2
-        x: 1026
-        y: 0
-        width: 954
-        height: 1080
+        x: 66
+        y: 1346
+        width: 446
+        height: 445
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -152,8 +158,50 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5358005276122bdc0800000000000000
-      internalID: -3624798023193688779
+      spriteID: ed3cfe209c07361c0800000000000000
+      internalID: -4511638393055099938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 13_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 658
+        width: 605
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd278927b77df7b00800000000000000
+      internalID: 828617781663003356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 13_3
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 0
+        width: 472
+        height: 413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b0a749b84ab4e6d0800000000000000
+      internalID: -2962037833394052937
       vertices: []
       indices: 
       edges: []

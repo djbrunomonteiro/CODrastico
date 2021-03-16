@@ -1,13 +1,13 @@
 fileFormatVersion: 2
-guid: ec6ad1fddb774bb46ad9dafa987a9a39
+guid: 5f208c162cf581a4eb579a5f81397812
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 8620002510973024465
-    second: bg-vscode_0
+      213: -7746410658478727485
+    second: botoes retorne_0
   - first:
-      213: -3624798023193688779
-    second: bg-vscode_1
+      213: -4776776880282295190
+    second: botoes retorne_1
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -117,13 +117,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: bg-vscode_0
+      name: botoes retorne_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 1017
-        height: 1077
+        x: 21
+        y: 844
+        width: 465
+        height: 526
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -131,20 +131,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1d8b58dec9660a770800000000000000
-      internalID: 8620002510973024465
+      spriteID: 3ce53116c883f7490800000000000000
+      internalID: -7746410658478727485
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bg-vscode_1
+      name: botoes retorne_1
       rect:
         serializedVersion: 2
-        x: 1026
+        x: 0
         y: 0
-        width: 954
-        height: 1080
+        width: 445
+        height: 540
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -152,8 +152,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5358005276122bdc0800000000000000
-      internalID: -3624798023193688779
+      spriteID: a64a97f5cba75bdb0800000000000000
+      internalID: -4776776880282295190
       vertices: []
       indices: 
       edges: []
