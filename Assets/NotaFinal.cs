@@ -115,17 +115,18 @@ public class NotaFinal : MonoBehaviour
                 porcUm.GetComponent<Button>().interactable = true;
                 porcDois.GetComponent<Button>().interactable = false;
                 porcTres.GetComponent<Button>().interactable = false;
-
+                flowCGameOver.ExecuteBlock("feedback50");
                 break;
             case 75:
                 porcUm.GetComponent<Button>().interactable = true;
                 porcDois.GetComponent<Button>().interactable = true;
                 porcTres.GetComponent<Button>().interactable = false;
-
+                flowCGameOver.ExecuteBlock("feedback75");
                 break;
             case 100:
                 porcUm.GetComponent<Button>().interactable = false;
-                porcDois.GetComponent<Button>().interactable = true;                
+                porcDois.GetComponent<Button>().interactable = true;
+                flowCGameOver.ExecuteBlock("feedback100");
                 break;
 
             default:               
